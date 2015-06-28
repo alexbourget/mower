@@ -8,7 +8,8 @@
 <hr>
 <h2>Quick start:</h2>
 
-<p>In a console : java -jar Mower-1.0.jar instructions.txt<br />
+<p>Do a maven install on sources to create mower-1.0.jar.
+In a console : java -jar Mower-1.0.jar instructions.txt<br />
 instructions.txt and Mower-1.0.jar need to be in the same directory.<br />
 instructions.txt is a configuration file.</p>
 
